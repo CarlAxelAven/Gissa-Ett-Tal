@@ -1,0 +1,15 @@
+E:\git\GissaEttTal\bin\Debug\net7.0\GissaEttTal.exe
+E:\git\GissaEttTal\bin\Debug\net7.0\GissaEttTal.deps.json
+E:\git\GissaEttTal\bin\Debug\net7.0\GissaEttTal.runtimeconfig.json
+E:\git\GissaEttTal\bin\Debug\net7.0\GissaEttTal.dll
+E:\git\GissaEttTal\bin\Debug\net7.0\GissaEttTal.pdb
+E:\git\GissaEttTal\obj\Debug\net7.0\GissaEttTal.csproj.AssemblyReference.cache
+E:\git\GissaEttTal\obj\Debug\net7.0\GissaEttTal.GeneratedMSBuildEditorConfig.editorconfig
+E:\git\GissaEttTal\obj\Debug\net7.0\GissaEttTal.AssemblyInfoInputs.cache
+E:\git\GissaEttTal\obj\Debug\net7.0\GissaEttTal.AssemblyInfo.cs
+E:\git\GissaEttTal\obj\Debug\net7.0\GissaEttTal.csproj.CoreCompileInputs.cache
+E:\git\GissaEttTal\obj\Debug\net7.0\GissaEttTal.dll
+E:\git\GissaEttTal\obj\Debug\net7.0\refint\GissaEttTal.dll
+E:\git\GissaEttTal\obj\Debug\net7.0\GissaEttTal.pdb
+E:\git\GissaEttTal\obj\Debug\net7.0\GissaEttTal.genruntimeconfig.cache
+E:\git\GissaEttTal\obj\Debug\net7.0\ref\GissaEttTal.dll
