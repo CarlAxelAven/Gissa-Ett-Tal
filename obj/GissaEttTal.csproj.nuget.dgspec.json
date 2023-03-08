@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\git\\GissaEttTal\\GissaEttTal.csproj": {}
+    "D:\\Git\\Gissa-Ett-Tal\\GissaEttTal.csproj": {}
   },
   "projects": {
-    "E:\\git\\GissaEttTal\\GissaEttTal.csproj": {
+    "D:\\Git\\Gissa-Ett-Tal\\GissaEttTal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\git\\GissaEttTal\\GissaEttTal.csproj",
+        "projectUniqueName": "D:\\Git\\Gissa-Ett-Tal\\GissaEttTal.csproj",
         "projectName": "GissaEttTal",
-        "projectPath": "E:\\git\\GissaEttTal\\GissaEttTal.csproj",
-        "packagesPath": "C:\\Users\\Carl\\.nuget\\packages\\",
-        "outputPath": "E:\\git\\GissaEttTal\\obj\\",
+        "projectPath": "D:\\Git\\Gissa-Ett-Tal\\GissaEttTal.csproj",
+        "packagesPath": "C:\\Users\\Carl Axel\\.nuget\\packages\\",
+        "outputPath": "D:\\Git\\Gissa-Ett-Tal\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Carl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Carl Axel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

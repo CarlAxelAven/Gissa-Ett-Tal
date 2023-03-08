@@ -57,9 +57,6 @@ namespace GissaEttTal
                 else Console.WriteLine("Du skrev inte en siffra");
                 if (gissning == randomNumber)
                 {
-
-                    while (true)
-                    {
                         int menyVal;
                         Console.WriteLine("1. Spela en gång till");
                         Console.WriteLine("2. Avsluta spelet");
@@ -71,17 +68,23 @@ namespace GissaEttTal
                         if (checkVal)
                         {
                             if (menyVal > 3 || menyVal < 1)Console.WriteLine("Du måste skriva ett tal mellan 1 och 3");
-                            if (menyVal == 1) spelaGissaEttTal();
-                            var app = new App();
-                            if (menyVal == 2) app.Run();
-                            if (menyVal == 3) visaLowScores();
+                        if (menyVal == 1) {
+                            spelaGissaEttTal();
+                                break;
+                        };
+                            if (menyVal == 2) break;
+                            if (menyVal == 3)
+                                { 
+                            visaLowScores();
+                            break;
+                                }
                         }
                         else
                         {
                             Console.WriteLine("Du måste skriva en siffra mellan 1 och 3. SLUTA");
                             Console.WriteLine();
                         }
-                    }
+                    
                 }
             }
         }
